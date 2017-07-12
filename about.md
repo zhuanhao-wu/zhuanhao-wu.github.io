@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My name is Wu, Zhuanhao. I am going to pursue my Master's degree at [University of Waterloo](http://uwaterloo.ca), Canada. 
+My name is Wu, Zhuanhao. I am interested in _Computer Architecture_, _Machine Learning_ and _Distributed Systems_. I am going to pursue my Master's degree at [University of Waterloo](http://uwaterloo.ca), Canada. 
 
-I am interested in _Computer Architecture_, _Machine Learning_ and _Distributed Systems_.
 
 I obtained my Bachelor's degree in _Computer Science and Technology_ at [Nankai University](http://www.nankai.edu.cn), China.
 
