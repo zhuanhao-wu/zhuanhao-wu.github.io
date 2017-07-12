@@ -1,0 +1,32 @@
+- SCCL: An open-source SystemC to RTL translator
+Zhuanhao Wu, Maya Gokhale, Scott Lloyd, Hiren Patel
+Accepted, To appear in FCCM 2023
+- PASoC: A Predictable Accelerator-rich SoC
+Susmita Tadepalli, Zhuanhao Wu, Hiren Patel
+Accepted, To appear in TCRS 2023
+- Ditty: Directory-based Cache Coherence for Multicore Safety-critical Systems
+Zhuanhao Wu, Marat Bekmyrza, Nachiket Kapre, Hiren Patel
+Accepted, To appear in DATE 2023, nominated for Best Paper Award Candidate
+- ZeroCost-LLC: Shared LLCs at No Cost to WCL
+Zhuanhao Wu, Anirudh Kaushik, Hiren Patel
+Accepted, To appear in RTAS 2023
+- Enhancing Strong PUF Security With Nonmonotonic Response Quantization
+Kleber Stangherlin, Zhuanhao Wu, Hiren Patel, Manoj Sachdev
+TVLSI 2023
+- Predictable sharing of last-level cache partitions for multi-core safety-critical systems
+Zhuanhao Wu, Hiren Patel
+DAC 2022
+- ZHW: A Numerical CODEC for Big Data Scientific Computation
+Michael Barrow, Zhuanhao Wu, Scott Lloyd, Maya Gokhale, Hiren Patel, Peter Lindstrom
+FPT 2022
+- A Hardware Platform for Exploring Predictable Cache Coherence Protocols for Real-time Multicores
+Zhuanhao Wu, Anirudh Kaushik, Paulos Tegegn, Hiren Patel
+RTAS 2021
+- CARP: A Data Communication Mechanism for Multi-core Mixed-Criticality Systems
+Anirudh Kaushik, Paulos Tegegn, Zhuanhao Wu, Hiren Patel
+RTSS 2019
+- Strengthening PUFs using Composition, In ICCAD 2019
+Zhuanhao Wu, Hiren Patel, Manoj Sachdev, Mahesh Tripunitara
+ICCAD 2019
+
+
