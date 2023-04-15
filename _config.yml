@@ -1,10 +1,10 @@
 
 # SEO settings
-title: "The"
-title2: "Watcher" # default: ""
-description: "Wu Zhuanhao's space"
-keywords: "Wu Zhuanhao, Computer Architecture, Machine Learning, Deep Learning, Distributed System"
-url: http://allen-ng.github.io/ # site url
+title: "Zhuanhao "
+title2: "Wu" # default: ""
+description: "Wu Zhuanhao's site"
+keywords: "Wu Zhuanhao, Computer Architecture, Computer Hardware"
+url: https://zhuanhao-wu.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -33,15 +33,15 @@ author:
   job      : "Graduate Student"
   bio      : ""
   thumb    : /images/author.jpg
-  email    : zhwu95@gmail.com
-  url      : http://allen-ng.github.io
-  github   : http://github.com/allen-ng
+  email    : zhuanhao.wu@uwaterloo.ca
+  url      : http://zhuanhao-wu.github.io
+  github   : http://github.com/zhuanhao-wu
 #  twitter  : http://twitter.com/HeiswayiNrird
 #  facebook : https://www.facebook.com/heiswayi.nrird
 #  linkedin : http://linkedin.com/in/nrird
 
 # social settings
-og_locale: "zh_CN"
+og_locale: "en_US"
 # twitter_card: "summary_large_image"
 # twitter_site: "@HeiswayiNrird"
 
@@ -53,11 +53,11 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
-  - slug : project
-    title: Projects
-  - slug : research
-    title: Research
+    #   - slug : blog
+    #     title: Blog
+    #   - slug : project
+    #     title: Projects
+    #   - slug : research
+    #     title: Research
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

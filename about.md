@@ -4,9 +4,16 @@ title: About
 permalink: /about/
 ---
 
-My name is Wu, Zhuanhao. I am interested in _Computer Architecture_, _Machine Learning_ and _Distributed Systems_. I am going to pursue my Master's degree at [University of Waterloo](http://uwaterloo.ca), Canada. 
+Hi, I am a Ph.D. candidate at the ECE department, University of Waterloo (UWaterloo).
+My supervisor is Professor Hiren Patel.
+I work in the area of computer architecture with specific interests in cache coherence in safety-critical systems architecture, hardware design, hardware security, and compilers.
 
+I received my Masters in Applied Sciences (MASc) from UWaterloo in 2019. My MASc thesis was about the design and evaluation of physical unclonable functions using compositions.
 
-I obtained my Bachelor's degree in _Computer Science and Technology_ at [Nankai University](http://www.nankai.edu.cn), China.
+I used to compete in ACM/ICPC, winning silver medals in Asian Regonals.
 
-I was an ACM/ICPC participant, winning several medals in ICPC Asian Regonals.
+# Publications
+
+# Contact
+
+Drop me an email at - zhuanhao.wu at uwaterloo dot ca
