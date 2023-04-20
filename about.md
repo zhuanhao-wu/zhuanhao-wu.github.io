@@ -8,7 +8,7 @@ I work in the area of computer architecture with specific interests in cache coh
 
 I received my Masters in Applied Sciences (MASc) from UWaterloo in 2019. My MASc thesis was about the design and evaluation of physical unclonable functions using compositions.
 
-I used to compete in ACM/ICPC, winning silver medals in Asian Regonals.
+I used to compete in ACM/ICPC, winning silver medals in Asian Regionals.
 
 # Publications
 
