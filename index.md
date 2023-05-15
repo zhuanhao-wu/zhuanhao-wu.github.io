@@ -15,7 +15,7 @@ I used to compete in ACM/ICPC, winning silver medals in Asian Regionals.
 ## 2023
 - SCCL: An open-source SystemC to RTL translator   
 Wu, Zhuanhao, Gokhale, Maya, Lloyd, Scott, and Patel, Hiren  
-to appear in proceedings of International Symposium On Field-Programmable Custom Computing Machines (FCCM), 2023
+In proceedings of International Symposium On Field-Programmable Custom Computing Machines (FCCM), 2023
 - PASoC: A Predictable Accelerator-rich SoC  
 Tadepalli, Susmita, Wu, Zhuanhao, Patel, Hiren  
 In Time-Centric Reactive Software Workshop, 2023
