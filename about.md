@@ -4,7 +4,7 @@ layout: page
 
 Hi, I am a Ph.D. candidate at the ECE department, University of Waterloo (UWaterloo).
 My supervisor is [Professor Hiren Patel](https://caesr.uwaterloo.ca/).
-I work in the area of computer architecture with specific interests in cache coherence in safety-critical systems architecture, hardware design, hardware security, and compilers.
+I work in the area of computer architecture with specific interests in and skills about cache coherence and memory consistency models in safety-critical systems architecture, hardware design, hardware security, formal verification using theorem provers (lean 4 specifically), and compilers.
 
 I received my Masters in Applied Sciences (MASc) from UWaterloo in 2019. My MASc thesis was about the design and evaluation of physical unclonable functions using compositions.
 
@@ -12,10 +12,23 @@ I used to compete in ACM/ICPC, winning silver medals in Asian Regionals.
 
 # Publications
 
+## 2025
+- Consistency-aware and Predictable Memory Processing for Safety-critical Out-of-order Multicores
+Wu, Zhuanhao, and Patel, Hiren
+to appear in proceedings of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2025
+
+## 2024
+- Exclusive Hierarchies for Predictable Sharing in Last-level Cache
+Wang, Xinzhe, Wu, Zhuanhao, Pellizzoni, Rodolfo, and Patel, Hiren
+In proceedings of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2024
+- High Performance and Predictable Shared Last-level Cache for Safety-Critical Systems
+Wu, Zhuanhao, Kaushik, Anirudh , and Patel, Hiren 
+In ACM Transactions on Embedded Computing Systems (TECS), 2024
+
 ## 2023
 - SCCL: An open-source SystemC to RTL translator   
 Wu, Zhuanhao, Gokhale, Maya, Lloyd, Scott, and Patel, Hiren  
-to appear in proceedings of International Symposium On Field-Programmable Custom Computing Machines (FCCM), 2023
+In proceedings of International Symposium On Field-Programmable Custom Computing Machines (FCCM), 2023
 - PASoC: A Predictable Accelerator-rich SoC  
 Tadepalli, Susmita, Wu, Zhuanhao, Patel, Hiren  
 In Time-Centric Reactive Software Workshop, 2023
