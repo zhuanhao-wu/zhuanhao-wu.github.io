@@ -17,4 +17,3 @@ permalink: /CV
 
 ### Publish
 
-### Awards
